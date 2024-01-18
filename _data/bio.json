@@ -17,68 +17,78 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Programming" },
-    { "name": "Innovative" },
-    { "name": "Driven" },
-    { "name": "Reliable" }
+    { "name": "Innovation" },
+    { "name": "Justice" },
+    { "name": "STEM" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    },
+    {
+      "name": "Language Proficiency",
+      "keywords": [ "Spanish - Beginner" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Intro to Comp Sci I", "Intro to Comp Sci II", "Programming: Python", "Algorithms", "Software Engineering", "Database Systems I", "Security and Trust I", "Data Science Fundamentals"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH System Office of Human Resources",
+      "position": "Administrative Assistant",
+      "website": "https://www.hawaii.edu/ohr/",
+      "startDate": "2022-10-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Front Desk Operations",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintaining emails and phone calls.", 
+        "Uploading hardcopy files into our online database.", 
+        "Tasks requested by HR Specialists.",
+        "Handled the company’s online presence – regularly updated the company’s website."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Ka Leo O Hawaii",
+      "position": "Distribution Assistant",
+      "website": "https://www.manoanow.org/kaleo/",
+      "startDate": "2022-10-18",
+      "endDate": "2023-11-14",
+      "summary": "Head for Ka Leo Distribution Team",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked independently to distribute Ka Leo newspapers monthly around UH Manoa campus.",
+        "Driver and planner for efficient routes.",
+        "Record data of leftover stock and outgoing stock to determine next month's inventory."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Big Brother Big Sister Foundation, Inc.",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
+      "position": "Big Sister",
+      "startDate": "2019-04-01",
+      "endDate": "2019-05-31",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Role model to elementary kids.",
+        "Build relationships with peers, children, and advisors.",
+        "Give companionship and friendship to students.",
+        "Create a safe space and environment for children with complicated backgrounds.",
+        "About 2-4 hours per week."
       ]
     },
     {
@@ -98,15 +108,15 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2022-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "The Gerald W.G. Kwock Charitable Foundation",
+      "date": "2022-Present",
+      "awarder": "Gerald W.G. Kwock Charitable Foundation",
+      "summary": "The Gerald W. G. Kwock Charitable Foundation fund was established in 2015. This fund supports Oahu high school seniors attending a public or private high school. Received a semesterly $1,500 scholarship from Fall 2022 to present."
     }
   ],
   "references": [
