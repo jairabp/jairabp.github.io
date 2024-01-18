@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "reflecting back on JavaScript"
+title: "Reflecting Back on JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
 published: true
