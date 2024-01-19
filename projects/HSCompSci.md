@@ -11,15 +11,15 @@ labels:
   - High School Senior Year
 summary: "This is my portfolio for what I did in my Computer Science class at W.R. Farrington High School."
 ---
-<img class="img-fluid" src="../img/CompSciSeniorPic.JPG">
+<img class="img-fluid" class="center" width="500px" class="img-thumbnail" src="../img/CompSciSeniorPic.JPG">
 
 <a href="https://sites.google.com/farringtonhighschool.org/jairapader-icsspring2022/cpu-teardown" target="_blank"> Spring 2022 Computer Science Portfolio</a>
 
-This website portfolio was used to post all our mini projects. Our coding assignments under "Python" and "Web Design" used a coding website called Replit. 
+This website portfolio was used to post all our mini-projects. Our coding assignments under "Python" and "Web Design" used a coding website called Replit. 
 
-<img class="img-fluid" src="../img/PythonThumbnails.png">
+<img class="img-fluid" class="center" width="500px" class="img-thumbnail" src="../img/PythonThumbnails.png">
 
-<h1 style="text-align:center;"> Some of my favorite projects are below.</h1>
+<h1 style="text-align:center;"> Some of my favorite projects are below. </h1>
 
 
 <a href="https://replit.com/@jairabp/Black-Jack-Assignment#main.py" target="_blank">Black Jack</a>
