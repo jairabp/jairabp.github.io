@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FHS Board Logo.jpg
+image: img/FHSBoardLogo.png
 title: "Engineering Academy Student Board and Ambassadors"
 date: 2018-2022
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A student government for the Engineering Academy in W.R. Farrington High School"
 ---
 
-
+<img width="fluid" src="../img/EnginAcadBoard.JPG" class="img-thumbnail" >
 
 
 August 2018 - May 2022
@@ -27,4 +27,8 @@ In my freshman year, I joined this club when it used to be the Engineering Board
 <be>
 
 Below are images for one of the last projects we had, which was creating the Spirit Stick for our Homecoming days:
-<img class="img-fluid" src="../img/Staff.jpeg">
+
+<div class="text-center p-4">
+  <img width="500px" src="../img/Staff.jpeg" class="img-thumbnail" >
+  <img width="500px" src="../img/JairaBoardPresident.JPG" class="img-thumbnail" >
+</div>
