@@ -19,8 +19,8 @@ Student board that focused on bringing a voice to the Engineering Academy’s st
 
 In my freshman year, I joined this club when it used to be the Engineering Board. I joined as a member the first year it was officially founded and recognized by Farrington High School. Loving the community around the club, I decided to apply for a leadership role and became their Treasurer in my sophomore year and junior year. As a loyal and commited student to the Engineering Board, I decided to become their President for my senior year. This was when the we combined our club with the Engineering Ambassadors, who helped give tour guides and promote our academy to nearby schools in the Kalihi district.
 
-<h2>[Engineering Academy Instagram Page](https://www.instagram.com/fhs.engineering/)</h2>
+[<h2>Engineering Academy Instagram Page</h2>](https://www.instagram.com/fhs.engineering/)
 <br>
-<h2>[Official School Website to Engineering Page](https://www.farringtonhighschool.org/farrington-cte/farrington-engineering-academy/)</h2>
+[<h2>Official School Website to Engineering Page</h2>](https://www.farringtonhighschool.org/farrington-cte/farrington-engineering-academy/)
 <br>
-<h2>[Engineering Academy Website](https://sites.google.com/k12.hi.us/farrington-high-school/academies-of-farrington/engineering)</h2>
+[<h2>Engineering Academy Website</h2>](https://sites.google.com/k12.hi.us/farrington-high-school/academies-of-farrington/engineering)
