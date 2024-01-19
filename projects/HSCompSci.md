@@ -17,7 +17,7 @@ This website portfolio was used to post all our mini-projects. Our coding assign
 
 This class gave me a big step in understanding the direction of my career. I've always wanted to be part of the tech field, but I never had real experience of how it may feel until this class was introduced in my senior year of high school. I did not regret my choices. This class helped a lot because my teacher explored several fields of computer science within the span of the short semester he could teach us. For example, this class inspired me to build my own PC, and once I had the budget, I finally built my first PC. The game prompts he gave us for the class were so much fun for me and my classmates, and we competed with each other to see who could finish first. 
 
-This was originally a tutorial-like class for the first couple of lessons to learn about syntax and how each language works. After learning our syntax, our teacher gave us numerous prompts to solve by the end of the day with certain conditions. Most, if not all, Replits should have the prompt commented above the code. 
+This was originally a tutorial-like class for the first couple of lessons to learn about syntax and how each language works. After learning our syntax, our teacher gave us numerous prompts to solve by the end of the day with certain conditions. Most, if not all, Replits should have the prompt commented above the code. </pre>
 
 <a href="https://sites.google.com/farringtonhighschool.org/jairapader-icsspring2022/cpu-teardown" target="_blank"> Spring 2022 Computer Science Portfolio</a>
 
@@ -34,4 +34,4 @@ This was originally a tutorial-like class for the first couple of lessons to lea
 <a href="https://replit.com/@jairabp/Boss-Assignment-Make-a-Jan-Ken-Po-User-vs-User" target="_blank"> Jan Ken Po User vs User </a>
 
 <a href="https://replit.com/@jairabp/Mini-Boss-Charting-your-Friends#index.html" target="_blank"> Charting Your Friends </a>
-</pre>
+
