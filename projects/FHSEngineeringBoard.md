@@ -13,7 +13,7 @@ summary: "A student government for the Engineering Academy in W.R. Farrington Hi
 
 <img class="img-fluid" width="500px" class="center" src="../img/EnginAcadBoard.JPG" class="img-thumbnail" >
 
-<p>
+
 August 2018 - May 2022
 This was a student board that focused on bringing a voice to the Engineering Academy’s students and was responsible for Academy events and duties. Some of the tasks I held were creating sheets to analyze and ensure profitable fundraising events, taking charge, and overseeing multiple academy events such as Orientation, Induction, and Graduation. I was one of the few ambassadors that represented the academy at outside events.
 
@@ -29,7 +29,7 @@ The main reason I loved being on this board was the people. My advisor, Jennifer
 <br>
 
 Below are images for one of the last projects we had, which was creating the Spirit Stick for our Homecoming days:
-</p>
+
 <div class="text-center p-4">
   <img width="500px" class="center" src="../img/Staff.jpeg" class="img-thumbnail" >
   <img width="500px" class="center" src="../img/JairaBoardPresident.JPG" class="img-thumbnail" >
