@@ -11,7 +11,7 @@ labels:
   - High School Senior Year
 summary: "This is my portfolio for what I did in my Computer Science class at W.R. Farrington High School."
 ---
-<img class="img-fluid" src="../img/CompSciSeniorPic.png">
+<img class="img-fluid" src="../img/CompSciSeniorPic.JPG">
 
 <a href="https://sites.google.com/farringtonhighschool.org/jairapader-icsspring2022/cpu-teardown" target="_blank"> Spring 2022 Computer Science Portfolio</a>
 
