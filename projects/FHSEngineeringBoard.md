@@ -11,7 +11,7 @@ labels:
 summary: "A student government for the Engineering Academy in W.R. Farrington High School"
 ---
 
-<img width="fluid" src="../img/EnginAcadBoard.JPG" class="img-thumbnail" >
+<img class="img-fluid" src="../img/EnginAcadBoard.JPG" class="img-thumbnail" >
 
 
 August 2018 - May 2022
