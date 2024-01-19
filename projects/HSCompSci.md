@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <!-- img/ChildrensMarch.jpg -->
+image: img/CompSciHomePage.png
 title: "High School Projects Portfolio"
 date: 2018-2022
 published: true
@@ -17,7 +17,7 @@ summary: "This is my portfolio for what I did in my Computer Science class at W.
 
 This website portfolio was used to post all our mini projects. Our coding assignments under "Python" and "Web Design" used a coding website called Replit. 
 
-<img class="img-fluid" src="../img/CompSciHomePage.png">
+<img class="img-fluid" src="../img/PythonThumbnails.png">
 
 <h1 style="text-align:center;"> Some of my favorite projects are below.</h1>
 
