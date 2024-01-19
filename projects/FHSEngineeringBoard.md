@@ -13,7 +13,7 @@ summary: "A student government for the Engineering Academy in W.R. Farrington Hi
 
 <img class="img-fluid" width="500px" class="center" src="../img/EnginAcadBoard.JPG" class="img-thumbnail" >
 
-</p>
+<p>
 August 2018 - May 2022
 This was a student board that focused on bringing a voice to the Engineering Academy’s students and was responsible for Academy events and duties. Some of the tasks I held were creating sheets to analyze and ensure profitable fundraising events, taking charge, and overseeing multiple academy events such as Orientation, Induction, and Graduation. I was one of the few ambassadors that represented the academy at outside events.
 
@@ -26,7 +26,7 @@ The main reason I loved being on this board was the people. My advisor, Jennifer
 [<h2>Official School Website to Engineering Page</h2>](https://www.farringtonhighschool.org/farrington-cte/farrington-engineering-academy/)
 <br>
 [<h2>Engineering Academy Website</h2>](https://sites.google.com/k12.hi.us/farrington-high-school/academies-of-farrington/engineering)
-<be>
+<br>
 
 Below are images for one of the last projects we had, which was creating the Spirit Stick for our Homecoming days:
 
