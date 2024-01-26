@@ -23,11 +23,11 @@ This was originally a tutorial-like class for the first couple of lessons to lea
 
 
 
-<a href="https://sites.google.com/farringtonhighschool.org/jairapader-icsspring2022/cpu-teardown" target="_blank"> Spring 2022 Computer Science Portfolio</a>
+<a href="https://sites.google.com/farringtonhighschool.org/jairapader-icsspring2022/cpu-teardown" target="_blank"> Spring 2022 Computer Science Portfolio Website </a>
 
 <img class="img-fluid" class="center" width="500px" class="img-thumbnail" src="../img/PythonThumbnails.png">
 
-<h1> Some of my favorite projects are below. </h1>
+## Some of my favorite projects are below. 
 
 <a href="https://replit.com/@jairabp/Black-Jack-Assignment#main.py" target="_blank"> Black Jack </a>
 
