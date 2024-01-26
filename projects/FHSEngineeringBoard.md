@@ -12,7 +12,7 @@ summary: "A student government for the Engineering Academy in W.R. Farrington Hi
 ---
 <div style="text-align:center"> 
 <img class="img-fluid" width="500px" class="center" src="../img/EnginAcadBoard.JPG" class="img-thumbnail" >
-
+</div>
 
 August 2018 - May 2022
 
@@ -30,7 +30,7 @@ The main reason I loved being on this board was the people. My advisor, Jennifer
 
 
 Below are images for one of the last projects we had, which was creating the Spirit Stick for our Homecoming days:
-</div> 
+
 <div class="text-center p-4">
   <img width="500px" class="center" src="../img/Staff.jpeg" class="img-thumbnail" >
   <img width="500px" class="center" src="../img/JairaBoardPresident.JPG" class="img-thumbnail" >
