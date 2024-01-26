@@ -28,7 +28,7 @@ This was originally a tutorial-like class for the first couple of lessons to lea
 
 <a href="https://replit.com/@jairabp/Black-Jack-Assignment#main.py" target="_blank"> Black Jack </a>
 
-<a href="https://replit.com/@jairabp/Boss-Assignment-Make-a-Jan-Ken-Po-User-vs-Bot)" target="_blank"> Jan Ken Po User vs Bot </a>
+<a href="https://replit.com/@jairabp/Boss-Assignment-Make-a-Jan-Ken-Po-User-vs-Bot" target="_blank"> Jan Ken Po User vs Bot </a>
 
 <a href="https://replit.com/@jairabp/Boss-Assignment-Make-a-Jan-Ken-Po-User-vs-User" target="_blank"> Jan Ken Po User vs User </a>
 
