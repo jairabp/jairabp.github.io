@@ -6,8 +6,8 @@ title: "Engineering Academy Student Board and Ambassadors"
 date: 2018-2022
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Engineering Academy
+  - Leadership Roles
 summary: "A student government for the Engineering Academy in W.R. Farrington High School"
 ---
 <div style="text-align:center"> 
