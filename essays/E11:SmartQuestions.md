@@ -11,8 +11,9 @@ labels:
   - StackOverflow
 ---
 
-<iframe src="https://giphy.com/embed/d3mlE7uhX8KFgEmY" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/culture--think-hmm-d3mlE7uhX8KFgEmY">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/5zQpI3kbBURybqS5lQ" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbs-bob-hearts-abishola-5zQpI3kbBURybqS5lQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/d3mlE7uhX8KFgEmY" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/culture--think-hmm-d3mlE7uhX8KFgEmY"></a></p>
+
+<iframe src="https://giphy.com/embed/5zQpI3kbBURybqS5lQ" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbs-bob-hearts-abishola-5zQpI3kbBURybqS5lQ"></a></p>
 
 ## An Evolving Career
 In a field that's always changing, it’s important to always have a positive attitude toward learning new things and being able to adapt to the technical skills and languages needed for this job. We’ve all seen how much Computer Science has evolved over the years and how new coding languages have become the new environment for the tech world. With a positive outlook on needing to learn, a person working in the tech field must also learn how to ask smart questions to learn efficiently.
