@@ -8,7 +8,7 @@ published: true
 labels:
   - JavaScript
 ---
-<img width="300px" class="rounded float-start pe-4" src="[../img/smart-questions/rtfm.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codecademy.com%2Fresources%2Fblog%2Fjava-vs-javascript%2F&psig=AOvVaw1EHedVpCCdnDCuMBo7Pxyq&ust=1706347587329000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCbi6ne-oMDFQAAAAAdAAAAABAD)">
+<img width="300px" class="rounded float-start pe-4" src="../img/java-vs-javascript-1.png">
 
 
 ## My Prior Experience
