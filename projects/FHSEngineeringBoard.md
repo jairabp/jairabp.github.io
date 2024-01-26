@@ -30,7 +30,7 @@ The main reason I loved being on this board was the people. My advisor, Jennifer
 
 
 Below are images for one of the last projects we had, which was creating the Spirit Stick for our Homecoming days:
-<div style="text-align:center"> 
+</div> 
 <div class="text-center p-4">
   <img width="500px" class="center" src="../img/Staff.jpeg" class="img-thumbnail" >
   <img width="500px" class="center" src="../img/JairaBoardPresident.JPG" class="img-thumbnail" >
