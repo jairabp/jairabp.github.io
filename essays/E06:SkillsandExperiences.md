@@ -8,9 +8,9 @@ published: true
 labels:
   - Motivation
 ---
-<div align=”center”>
+
 <iframe src="https://giphy.com/embed/3o6ZsV3A5DdPm0e5bO" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/latina-rita-moreno-latinawomen-3o6ZsV3A5DdPm0e5bO">via GIPHY</a></p>
-</div>
+
 
 ## When I thought I could do it
 When I was in high school, I loved the idea of coding and developing an app. For my junior project, I planned to create an app for my high school that would be similar to our high school website but with real-life applications showing the lunch menu, event reminders, etc. I was determined, downloading Swift Playground. I was having fun creating a template, but I could only do so much with no coding experience and little time. That was the first time I felt I wasn’t meant for this major because I felt stuck and didn’t know how to keep going. But I didn’t lose hope when my high school finally started a Computer Science elective class, which I immediately registered for my senior year. 
