@@ -8,6 +8,9 @@ published: true
 labels:
   - JavaScript
 ---
+<img width="300px" class="rounded float-start pe-4" src="[../img/smart-questions/rtfm.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codecademy.com%2Fresources%2Fblog%2Fjava-vs-javascript%2F&psig=AOvVaw1EHedVpCCdnDCuMBo7Pxyq&ust=1706347587329000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCbi6ne-oMDFQAAAAAdAAAAABAD)">
+
+
 ## My Prior Experience
 Before this class, I had very little experience with JavaScript. In high school, we learned how to create websites, but as expected, we used HTML and CSS more than JavaScript when doing assignments, so I hardly remembered anything we learned back then. I got so used to learning new languages every semester that it hardly registered to me how different JavaScript is from the main three I learned: Java, C++, and Python. My favorite difference is how I don't need to declare what type of data every variable is. As of now, JavaScript is similar to Python in the simplicity of its syntax. To be honest, I’m already forgetting a lot of the syntax when it comes to the more complex stuff like arrays, but in general, it is very similar to every other programming language when it comes to concepts like loops and boolean statements.
 
