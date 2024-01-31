@@ -5,3 +5,6 @@ _site/
 .jekyll-metadata
 # Gemfile.lock
 .idea
+
+
+# this is just a test on gitignore
