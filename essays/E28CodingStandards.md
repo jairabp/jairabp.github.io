@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "You're asking questions wrong!"
+title: "There's coding standards?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-08
 published: true
@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<iframe src="" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/culture--think-hmm-d3mlE7uhX8KFgEmY"></a>
+<img src="../img/eslint.png" width="300px">
 
 I’ve recently installed ESLint on my Intellij coding software. At first, I didn’t know what I installed as I was instructed to turn on and off many of this application's features. When I started using it, I thought it was genuinely a pain because it would not stop correcting my indents when they looked the same way after they “fixed” it. ESLint is very picky with its format. It does not like multiple blank lines and having unused methods. I was already having a hard time learning javascript syntax as I was not too familiar with it, and it marked me on everything that was off-key to how it wanted the code to look. This was the most strict feature I’ve ever had when using a coding application. But, it did change some ways that I had.
 
