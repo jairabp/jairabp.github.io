@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/java-vs-javascript-1.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-bootstrap-everywhere.jpg">
 
 When I first learned HTML and CSS, it was in my senior year of high school. That was exactly two years ago. It was a really fun learning experience after doing Python since you can easily see your output as it's a UI/visual type of language. I enjoyed it a lot and was very nitpicky back then. 
 
