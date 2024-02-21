@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript is a lot more simpler"
+title: "I love this library"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-17
+date: 2024-02-21
 published: true
 labels:
-  - JavaScript
+  - Bootstrap 5
+  - HTML and CSS Style
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-bootstrap-everywhere.jpg">
