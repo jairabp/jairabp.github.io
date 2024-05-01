@@ -76,6 +76,21 @@
       ]
     }
   ],
+  "experience": [
+    {
+      "organization": "Supporting Women in Technology & Computing in Hawaii (SWITCH)",
+      "website": "https://switch-uhm.github.io/",
+      "position": "Assistant Fundraising Director, Member",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "summary": "SWITCH is the culmination of efforts of the awesome students, faculty, and working professionals supporting social change in the ICS department. Established in Fall 2019, we are officially a UH Manoa RIO, ACM-W Chapter, and Girls Who Code College Loops Chapter. We strive to provide useful resources from these organizations to improve your professional, technical, and personal development. We aim to support women and minorities, promote gender and racial equality, facilitate professional, technical & personal development events, create an environment and atmosphere where women can fell safe, prevent violence against women by raising awareness of campus resources, and provide an overall sense of community.",
+      "highlights": [
+        "Assistant Fun, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
   "volunteer": [
     {
       "organization": "Big Brother Big Sister Foundation, Inc.",
@@ -90,21 +105,6 @@
         "Give companionship and friendship to students.",
         "Create a safe space and environment for children with complicated backgrounds.",
         "About 2-4 hours per week."
-      ]
-    }
-  ],
-  "experience": [
-    {
-      "organization": "Supporting Women in Technology & Computing in Hawaii (SWITCH)",
-      "website": "https://switch-uhm.github.io/",
-      "position": "Assistant Fundraising Director, Member",
-      "startDate": "2023-09-01",
-      "endDate": "Present",
-      "summary": "SWITCH is the culmination of efforts of the awesome students, faculty, and working professionals supporting social change in the ICS department. Established in Fall 2019, we are officially a UH Manoa RIO, ACM-W Chapter, and Girls Who Code College Loops Chapter. We strive to provide useful resources from these organizations to improve your professional, technical, and personal development. We aim to support women and minorities, promote gender and racial equality, facilitate professional, technical & personal development events, create an environment and atmosphere where women can fell safe, prevent violence against women by raising awareness of campus resources, and provide an overall sense of community.",
-      "highlights": [
-        "Assistant Fun, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
