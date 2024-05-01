@@ -294,6 +294,31 @@ layout: home
         <div class="row mb-3">
           <div class="col-9">
             <p class="mb-0">
+              <b>{{ entry.title }}</b>, {{ entry.organization }}
+            </p>
+          </div>
+          <div class="col-3">
+            <p class="m-0 text-end">
+              {{ entry.date}}
+            </p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if site.data.bio.certificates %}
+    <div class="row pt-4 align-items-start">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0">Certificates</h1>
+      </div>
+
+      <div class="col-lg-9">
+        {% for entry in site.data.bio.awacertificatesrds %}
+        <div class="row mb-3">
+          <div class="col-9">
+            <p class="mb-0">
               <b>{{ entry.title }}</b>, {{ entry.awarder }}
             </p>
             <p class="mb-0">{{ entry.summary }}</p>
