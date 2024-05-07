@@ -28,23 +28,23 @@ For in-class WODs, I used it when I needed to. At the beginning of each section,
 In terms of essays, I rarely or did not use AI at all. AI would make it harder to change my creativity, so I wrote my essays myself.
   5. Final project
 As of right now, I have not used AI for the final project. Making the AI do exactly what I need would be harder since multiple files and imports are used. 
-  7. Learning a concept/tutorial
+  6. Learning a concept/tutorial
 I did not use AI when learning new concepts. Since more concept practices involved a video playthrough, I used that instead. 
-  8. Answering a question in class or in Discord
+  7. Answering a question in class or in Discord
 I did not use AI or Discord to answer a question in class. I simply didn’t answer the question if I did not know the answer.
-  9. Asking or answering a smart question
+  8. Asking or answering a smart question
 If there was a smart question I possibly knew the answer to, I gave the suggestion. This is usually the case if the same problem happened to me, but I happened to fix it and did not use an AI to answer a smart question on the Discord server. 
-  10. Coding example e.g. “give an example of using Underscore .pluck”
+  9. Coding example e.g. “give an example of using Underscore .pluck”
 Yes, because the Underscore library was still a bit confusing for me. There were examples provided on the library website, but when it came to applying larger code, it was hard. Just trying to remember the syntax was difficult for me. 
-  11. Explaining code
+  10. Explaining code
 I did not use AI to explain my own code. 
-  12. Writing code
+  11. Writing code
 Yes, I’ve used it to write code mainly for the WODs as the time pressure got to me. 
-  13. Documenting code
+  12. Documenting code
 I did not use AI to document my code. I felt like there was no use in documenting my code using AI.
-  14. Quality assurance 
+  13. Quality assurance 
 I do not use AI to ensure the quality of the code. If the code works, I don’t see why I need to redo it for quality assurance. In terms of essays, I use Grammarly Premium for simple grammar errors or to rephrase my sentences that may seem wordy. 
-  15. Other uses in ICS 314 not listed above
+  14. Other uses in ICS 314 not listed above
 I used AI to help answer the debate we had on the last day of class with Alyssia. I initially disagreed with the company hiring the man, but using ChatGPT helped me in some ways. I used AI by sharing the scenario and asking for pros and cons to support the company. 
 
 ### III. Impact on Learning and Understanding:
