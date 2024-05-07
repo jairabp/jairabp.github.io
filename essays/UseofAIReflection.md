@@ -7,6 +7,7 @@ date: 2024-05-06
 published: true
 labels:
   - AI
+  - Reflection
 ---
 #Is AI really that bad?
 
