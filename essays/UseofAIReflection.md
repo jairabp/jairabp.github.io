@@ -11,8 +11,8 @@ labels:
 ---
 <img height="50px" class="rounded float-start pe-4" src="../img/ChatGPT.png">
 <img height="50px" class="rounded float-start pe-4" src="../img/Grammarly_logo_2024.svg.png">
-
-
+ 
+<br />
 
 ### I. Introduction
 I went to the doctor’s today, and one of the first things she asked me was, “What major are you?” I told her that I am a Computer Science major at UH Manoa. Like many people of her generation, she was intrigued and asked me about AI. She told me about the many negatives of AI, especially when using it in school. She told me that she never really understood what AI meant, and she’s always seen it as a negative thing on social media.
