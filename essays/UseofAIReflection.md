@@ -9,8 +9,8 @@ labels:
   - AI
   - Reflection
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-bootstrap-everywhere.jpg">
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-bootstrap-everywhere.jpg">
+<img height="50px" class="rounded float-start pe-4" src="../img/ChatGPT.png">
+<img height="50px" class="rounded float-start pe-4" src="../img/Grammarly_logo_2024.svg.png">
 
 ### I. Introduction
 I went to the doctor’s today, and one of the first things she asked me was, “What major are you?” I told her that I am a Computer Science major at UH Manoa. Like many people of her generation, she was intrigued and asked me about AI. She told me about the many negatives of AI, especially when using it in school. She told me that she never really understood what AI meant, and she’s always seen it as a negative thing on social media.
@@ -20,72 +20,72 @@ It was interesting how little she knew about it despite reading all these articl
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
+1. Experience WODs e.g. E18
 
 I had no experience using AI for the homework WODs. I relied on the videos when needed since there was almost always a video tutorial for every WOD. 
 
 
-  2. In-class Practice WODs
+2. In-class Practice WODs
   
 When we did in-class practice WODs, I didn’t use AI. I thought it would’ve been bad or weird because it was a whole different scenario because I was not working alone. I thought surely one of us would know what to do. And most of the time, it was true. Honestly, it never occurred to me that we could still use AI for the in-class practice WODs as groups.
 
   
-  3. In-class WODs
+3. In-class WODs
   
 For in-class WODs, I used it when I needed to. At the beginning of each section, like JDoodle, React, Bootstrap, and Meteor, I always did well for the basic concepts or the first WOD of every section. However, regarding the deeper concepts, I needed to use AI. With the amount of time we had, it was important to focus on doing it correctly in that small amount of time, especially for JDoodle with the new libraries we learned. In terms of IntelliJ codes, I was doing sufficient using my old resources rather than AI. AI would be more difficult since most of the WODs on IntelliJ included multiple files in different languages. When I used AI, it was either giving it the entire prompt to write the whole solution or saying, “fix my code,” and it usually would. 
 
 
-  4. Essays
+4. Essays
 
 In terms of essays, I rarely or did not use AI at all. AI would make it harder to change my creativity, so I wrote my essays myself.
 
 
-  5. Final project
+5. Final project
 
 As of right now, I have not used AI for the final project. Making the AI do exactly what I need would be harder since multiple files and imports are used. 
 
 
-  6. Learning a concept/tutorial
+6. Learning a concept/tutorial
 
 I did not use AI when learning new concepts. Since more concept practices involved a video playthrough, I used that instead. 
 
 
-  7. Answering a question in class or in Discord
+7. Answering a question in class or in Discord
 
 I did not use AI or Discord to answer a question in class. I simply didn’t answer the question if I did not know the answer.
 
 
-  8. Asking or answering a smart question
+8. Asking or answering a smart question
 
 If there was a smart question I possibly knew the answer to, I gave the suggestion. This is usually the case if the same problem happened to me, but I happened to fix it and did not use an AI to answer a smart question on the Discord server. 
 
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+9. Coding example e.g. “give an example of using Underscore .pluck”
 
 Yes, because the Underscore library was still a bit confusing for me. There were examples provided on the library website, but when it came to applying larger code, it was hard. Just trying to remember the syntax was difficult for me. 
 
 
-  10. Explaining code
+10. Explaining code
 
 I did not use AI to explain my own code. 
 
 
-  11. Writing code
+11. Writing code
 
 Yes, I’ve used it to write code mainly for the WODs as the time pressure got to me.
 
 
-  12. Documenting code
+12. Documenting code
 
 I did not use AI to document my code. I felt like there was no use in documenting my code using AI.
 
 
-  13. Quality assurance
+13. Quality assurance
       
 I do not use AI to ensure the quality of the code. If the code works, I don’t see why I need to redo it for quality assurance. In terms of essays, I use Grammarly Premium for simple grammar errors or to rephrase my sentences that may seem wordy.
 
 
-  14. Other uses in ICS 314 not listed above
+14. Other uses in ICS 314 not listed above
 
 I used AI to help answer the debate we had on the last day of class with Alyssia. I initially disagreed with the company hiring the man, but using ChatGPT helped me in some ways. I used AI by sharing the scenario and asking for pros and cons to support the company. 
 
