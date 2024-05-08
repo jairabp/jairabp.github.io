@@ -20,12 +20,12 @@ It was interesting how little she knew about it despite reading all these articl
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-1. Experience WODs e.g. E18
+1) Experience WODs e.g. E18
 
 I had no experience using AI for the homework WODs. I relied on the videos when needed since there was almost always a video tutorial for every WOD. 
 
 
-2. In-class Practice WODs
+2) In-class Practice WODs
   
 When we did in-class practice WODs, I didn’t use AI. I thought it would’ve been bad or weird because it was a whole different scenario because I was not working alone. I thought surely one of us would know what to do. And most of the time, it was true. Honestly, it never occurred to me that we could still use AI for the in-class practice WODs as groups.
 
