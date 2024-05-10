@@ -12,11 +12,10 @@ labels:
 ---
 
 <pre><img width="500px" class="rounded float-start pe-4" src="../img/RateMyProfessorsLogo.svg.png"></pre>
+<img width="250px" class="rounded float-start pe-4" src="../img/sse.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/AssignTasks.png">
 
-<p><img width="250px" class="rounded float-start pe-4" src="../img/sse.jpg">
-<img width="250px" class="rounded float-start pe-4" src="../img/AssignTasks.png"></p><br/>
-
-
+  
 ## Before the experience
 <p>I remember first registering for ICS 314 in Fall 2023, and I asked Henri Casanova if ICS 311 and ICS 314 were a bad idea to take simultaneously. He immediately responded, saying that having these classes and my other ICS classes “in the Fall is plenty” and “that would be a lot, honestly.” As someone who felt that Professor Casanova was someone to look up to, based on his astounding ratemyprofessor.com ratings, I felt a lot of pressure from his words and took his advice to spread them out. And I definitely feel like I made the right decision.
 
