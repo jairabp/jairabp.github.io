@@ -1,4 +1,5 @@
 ---
+# https://courses.ics.hawaii.edu/ics314s24/morea/final-project/experience-my-use-of-ai-technical-essay.html
 layout: essay
 type: essay
 title: "Is AI really that bad?"
