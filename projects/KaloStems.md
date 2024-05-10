@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/KaloStemsLogoSquare.png
+image: img/KaloStemsLogoSquare.png
 title: "Engineering Academy Student Board and Ambassadors"
 date: 2024
 published: true
