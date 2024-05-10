@@ -21,15 +21,18 @@ For this project, I developed most of the company attributes. For example, I cre
 
 **Company Profile** The Company Profile page contains the ability to add the following company information:
 
-<img src="../img/KaloStems/AddCompanyProfilePage.png" width="600">
+<img src="../img/KaloStems/AddCompanyProfilePage.png" width="500">
 
 **Company List** The Company List page contains a variety of companies that are looking for potential matches, as well as contact information for students to easily connect with.
 
-<img src="../img/KaloStems/ViewCompaniesPage.png" width="600">
+<img src="../img/KaloStems/ViewCompaniesPage.png" width="500">
 
 **About Us** The About Us page contains our mission for Kalo Stems along with our slogan. It also displays the team members with their pictures along with their names and contact email.
 
-<img src="../img/KaloStems/AboutUsPage.png" width="600">
+<img src="../img/KaloStems/AboutUsPage.png" width="500">
+
+## Takeaways from this project
+This was my first real group project and I learned how difficult it can be to manage your tasks and ensure there's no conflicts from team members working on the same code as you. I initially thought this was a really fun project but as weeks passed, I learned just how tiring and exhausting creating a website application can be. It taught me how much effort it really takes to get a decently stable application running and how important good communication and team work skills are when making large applications.
 
 ## Links for more information on our application
 * [GitHub Organization](https://github.com/kalo-stems)
