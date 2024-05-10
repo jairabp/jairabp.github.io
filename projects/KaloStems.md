@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: ../img/KaloStemsLogo.png
-title: "Engineering Academy Student Board and Ambassadors"
+title: "Kalo Stems"
 date: 2024
 published: true
 labels:
