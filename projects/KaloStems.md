@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/KaloStems/KaloStemsLogoSquare.png
+image: KaloStems/KaloStemsLogoSquare.png
 title: "Kalo Stems"
 date: 2024
 published: true
