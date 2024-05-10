@@ -1,4 +1,5 @@
 ---
+# https://courses.ics.hawaii.edu/ics314s24/morea/professional-persona/experience-a-professional-portfolio.html
 layout: essay
 type: essay
 title: "Getting Motivated"
@@ -9,7 +10,7 @@ labels:
   - Motivation
 ---
 
-<iframe src="https://giphy.com/embed/3o6ZsV3A5DdPm0e5bO" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/latina-rita-moreno-latinawomen-3o6ZsV3A5DdPm0e5bO"></a></p>
+<iframe src="https://giphy.com/embed/3o6ZsV3A5DdPm0e5bO" width="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/latina-rita-moreno-latinawomen-3o6ZsV3A5DdPm0e5bO"></a></p>
 
 
 ## When I thought I could do it
