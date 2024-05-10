@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "I think I want to be a senior software engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-09
+date: 2024-05-10
 published: true
 labels:
   - Reflection
