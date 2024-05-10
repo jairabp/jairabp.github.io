@@ -1,13 +1,16 @@
-<img src="img/Kalo-Stems-Logo.png" width="250"> 
-
-## Table of contents
-
-* [Overview](#overview)
-* [Deployment](#deployment)
-* [User Guide](#user-guide)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Links](#links)
+---
+layout: project
+type: project
+image: img/KaloStemsLogoSquare.png
+title: "Engineering Academy Student Board and Ambassadors"
+date: 2018-2022
+published: true
+labels:
+  - Engineering Academy
+  - Leadership Roles
+summary: "A student government for the Engineering Academy in W.R. Farrington High School"
+---
+<pre><img src="img/Kalo-Stems-Logo-Circle.png" width="250"></pre>
 
 ## Overview
 
