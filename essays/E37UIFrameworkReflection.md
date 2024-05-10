@@ -11,7 +11,7 @@ labels:
   - HTML and CSS Style
 ---
 
-<pre><img width="200px" class="rounded float-start pe-4" src="../img/bootstrap-bootstrap-everywhere.jpg"></pre>
+<pre><img width="300px" src="../img/bootstrap-bootstrap-everywhere.jpg"></pre>
 
 ## How it started
 When I first learned HTML and CSS, it was in my senior year of high school. That was exactly two years ago. It was a really fun learning experience after doing Python since you can easily see your output as it's a UI/visual language. I enjoyed it a lot, and it was very nitpicky back then. 
