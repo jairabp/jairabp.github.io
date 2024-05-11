@@ -12,7 +12,7 @@ labels:
 summary: "This is my portfolio for what I did in my Computer Science class at W.R. Farrington High School."
 ---
 
-<img class="img-fluid" class="center" width="700px" class="img-thumbnail" src="../img/CompSciSeniorPic.JPG">
+<img class="img-fluid" class="center" width="600px" class="img-thumbnail" src="../img/CompSciSeniorPic.JPG">
 
 
 This website portfolio was used to post all our mini-projects. Our coding assignments under "Python" and "Web Design" used a coding website called Replit. We were assigned to create this Google site to encase all our assignments from the start of Python to the end of learning Web Design using HTML, JavaScript, and CSS. We also learned more about CPU teardowns by first understanding the parts and learning how to deconstruct and rebuild the PC without any help. We also learned how to pick PC parts by compatibility and budget. At the end of our class, we learned about IT, like how to create servers and server folders and how to maintain basic security on a Windows PC. We had to modify our accounts using CommandPrompt and our IP addresses. 
