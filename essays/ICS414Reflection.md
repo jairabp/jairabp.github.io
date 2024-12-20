@@ -1,3 +1,16 @@
+---
+# https://courses.ics.hawaii.edu/ics314s24/morea/open-source-software/experience-smart-questions.html
+layout: essay
+type: essay
+title: "A Bad Experience or Unlucky?"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-20
+published: true
+labels:
+  - Reflection
+  - ICS 414
+---
+
 # ICS 414 Reflection
 
 This was one of the classes I was really expecting to love when I did registration. I loved the web development part of ICS 314 and I thought this class would’ve been true real life experience since we’re working with actual clients. But this class was harder than I would’ve expected. 
